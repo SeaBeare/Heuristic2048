@@ -1,0 +1,15 @@
+14
+1 CBeare Tracy 9999
+2 nonya Livermore 9998
+3 Trent SanFrancisco 9792
+4 Phil Tracy 2048
+5 Tim Tracy 1903
+6 Jon Livermore 1002
+7 Garfield Livermore 732
+8 Jackson SanFrancisco 644
+9 xXKillerzXx Modesto 643
+10 TrYhArD Jackson 642
+11 TestFail Tracy 524
+12 CutOff NoWhere 500
+13 Tester Tracy 499
+14 Jackson Jackson 8
